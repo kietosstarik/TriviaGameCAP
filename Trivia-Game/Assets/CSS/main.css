@@ -1,0 +1,15 @@
+body{
+	background-image: url(https://thiswallpaper.com/cdn/hdwallpapers/530/armenia%20cities%20church%20full%20screen%20hd%20wallpaper.jpg);
+	text-align: center;
+}
+.text-muted{
+    color: goldenrod;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 50px;
+}
+.last-seconds{
+  color: maroon;
+}
+.option{
+  margin: 15px;
+}
